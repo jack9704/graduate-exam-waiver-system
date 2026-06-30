@@ -7,7 +7,6 @@ import express from 'express';
 import path from 'path';
 import fs from 'fs/promises';
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'fs';
-import { createServer as createViteServer } from 'vite';
 import nodemailer from 'nodemailer';
 import dotenv from 'dotenv';
 import { Status, Application, EmailLog } from './src/types.js';
@@ -473,6 +472,7 @@ app.get('/api/stats', authenticateAdmin, async (req, res) => {
 // Vite & Static assets integration helper function
 async function startServer() {
   if (process.env.NODE_ENV !== 'production') {
+    const { createServer: createViteServer } = await import('vite');
     const vite = await createViteServer({
       server: { middlewareMode: true },
       appType: 'spa',

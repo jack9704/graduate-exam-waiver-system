@@ -1,0 +1,135 @@
+{
+  "applications": [
+    {
+      "id": 1782799479818,
+      "major": "경영학전공",
+      "name": "가나디",
+      "studentId": "523132410",
+      "registrationCount": 2,
+      "acquiredCredits": 12,
+      "gpa": 3.84,
+      "isSigned": true,
+      "studentEmail": "jack9704@korea.ac.kr",
+      "status": "PENDING",
+      "createdAt": "2026-06-30T06:04:39.818Z"
+    },
+    {
+      "id": 1782799342081,
+      "major": "경영학전공",
+      "name": "돌고래",
+      "studentId": "0131561321",
+      "registrationCount": 2,
+      "acquiredCredits": 12,
+      "gpa": 3.77,
+      "isSigned": true,
+      "studentEmail": "jack9704@korea.ac.kr",
+      "status": "APPROVED",
+      "createdAt": "2026-06-30T06:02:22.081Z"
+    },
+    {
+      "id": 1782799160395,
+      "major": "경영학전공",
+      "name": "홍길동",
+      "studentId": "2026461002",
+      "registrationCount": 2,
+      "acquiredCredits": 14,
+      "gpa": 4.5,
+      "isSigned": true,
+      "studentEmail": "jack9704@korea.ac.kr",
+      "status": "APPROVED",
+      "createdAt": "2026-06-30T05:59:20.395Z"
+    },
+    {
+      "id": 1782798669357,
+      "major": "경영학전공",
+      "name": "홍길동",
+      "studentId": "2026461001",
+      "registrationCount": 3,
+      "acquiredCredits": 15,
+      "gpa": 4,
+      "isSigned": true,
+      "studentEmail": "jack9704@korea.ac.kr",
+      "status": "APPROVED",
+      "createdAt": "2026-06-30T05:51:09.357Z"
+    },
+    {
+      "id": 1782798393998,
+      "major": "경영학전공",
+      "name": "홍길동",
+      "studentId": "2026461012",
+      "registrationCount": 12,
+      "acquiredCredits": 12,
+      "gpa": 3.8,
+      "isSigned": true,
+      "studentEmail": "jack9704@korea.ac.kr",
+      "status": "APPROVED",
+      "createdAt": "2026-06-30T05:46:33.998Z"
+    }
+  ],
+  "emailLogs": [
+    {
+      "id": "log_1782799479824_paew2",
+      "to": "jack9704@korea.ac.kr",
+      "subject": "[대학원 행정팀] 종합시험 면제 신청 접수 완료 안내",
+      "body": "\n      <div style=\"font-family: 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; border: 1px solid #e5e7eb; border-radius: 8px;\">\n        <h2 style=\"color: #A1001D; border-bottom: 2px solid #C92A49; padding-bottom: 10px;\">대학원 종합시험 면제 신청 접수 완료</h2>\n        <p>안녕하세요, <strong>가나디</strong> 학생님.</p>\n        <p>대학원 행정팀입니다. 귀하께서 제출하신 <strong>종합시험 면제 신청서</strong>가 정상적으로 접수되었습니다.</p>\n        \n        <div style=\"background-color: #f3f4f6; padding: 15px; border-radius: 6px; margin: 20px 0;\">\n          <h3 style=\"margin-top: 0; color: #374151;\">■ 접수 및 신청 정보</h3>\n          <table style=\"width: 100%; border-collapse: collapse;\">\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563; width: 120px;\"><strong>성명</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">가나디</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>학번</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">523132410</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>전공</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">경영학전공</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>기 등록횟수</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">2회</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>기 취득학점</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">12학점</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>평균평점</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">3.84 / 4.50</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>접수일시</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">2026. 6. 30. 오후 3:04:39 (KST)</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>심사 상태</strong></td>\n              <td style=\"padding: 6px 0; color: #d97706; font-weight: bold;\">대기 (PENDING)</td>\n            </tr>\n          </table>\n        </div>\n        \n        <p style=\"color: #4b5563; font-size: 0.95em; line-height: 1.6;\">\n              대학원 행정팀에서 학적부 세부 요건 대조 검토 후 최종 승인을 진행할 예정입니다.<br/>\n              승인 처리가 완료되면 기재하신 이메일로 검토 완료 메일이 추가 발송됩니다.\n            </p>\n        <p style=\"color: #9ca3af; font-size: 0.85em; margin-top: 30px; border-top: 1px solid #e5e7eb; padding-top: 10px;\">\n          본 메일은 발송전용 메일이므로 회신되지 않습니다. 문의 사항은 대학원 행정팀으로 연락 바랍니다.\n        </p>\n      </div>\n    ",
+      "timestamp": "2026-06-30T06:04:43.706Z",
+      "sent": true
+    },
+    {
+      "id": "log_1782799352783_54pcj",
+      "to": "jack9704@korea.ac.kr",
+      "subject": "[대학원 행정팀] 종합시험 면제 신청 결과 안내 (승인 (APPROVED))",
+      "body": "\n        <div style=\"font-family: 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; border: 1px solid #e5e7eb; border-radius: 8px;\">\n          <h2 style=\"color: #A1001D; border-bottom: 2px solid #C92A49; padding-bottom: 10px;\">대학원 종합시험 면제 신청 심사 완료</h2>\n          <p>안녕하세요, <strong>돌고래</strong> 학생님.</p>\n          <p>대학원 행정팀입니다. 귀하께서 제출하신 종합시험 면제 신청서의 최종 심사 결과를 알려드립니다.</p>\n          \n          <div style=\"background-color: #f8fafc; border-left: 4px solid #16a34a; padding: 15px; border-radius: 4px; margin: 20px 0;\">\n            <p style=\"margin: 0; font-size: 1.1em; color: #16a34a; font-weight: bold;\">심사 결과: 승인 (APPROVED)</p>\n            <p style=\"margin: 10px 0 0 0; color: #4b5563; font-size: 0.95em; line-height: 1.5;\">\n              축하합니다! 귀하의 대학원 종합시험 면제 신청서가 검토 결과 <strong>승인</strong>되었습니다.\n            </p>\n          </div>\n          \n          <div style=\"background-color: #f3f4f6; padding: 15px; border-radius: 6px; margin: 20px 0;\">\n            <h3 style=\"margin-top: 0; color: #374151;\">■ 신청서 요약 정보</h3>\n            <table style=\"width: 100%; border-collapse: collapse;\">\n              <tr>\n                <td style=\"padding: 4px 0; color: #4b5563; width: 120px;\"><strong>성명</strong></td>\n                <td style=\"padding: 4px 0; color: #111827;\">돌고래</td>\n              </tr>\n              <tr>\n                <td style=\"padding: 4px 0; color: #4b5563;\"><strong>학번</strong></td>\n                <td style=\"padding: 4px 0; color: #111827;\">0131561321</td>\n              </tr>\n              <tr>\n                <td style=\"padding: 4px 0; color: #4b5563;\"><strong>전공</strong></td>\n                <td style=\"padding: 4px 0; color: #111827;\">경영학전공</td>\n              </tr>\n              <tr>\n                <td style=\"padding: 4px 0; color: #4b5563;\"><strong>기 등록횟수</strong></td>\n                <td style=\"padding: 4px 0; color: #111827;\">2회</td>\n              </tr>\n              <tr>\n                <td style=\"padding: 4px 0; color: #4b5563;\"><strong>기 취득학점</strong></td>\n                <td style=\"padding: 4px 0; color: #111827;\">12학점</td>\n              </tr>\n              <tr>\n                <td style=\"padding: 4px 0; color: #4b5563;\"><strong>평균평점</strong></td>\n                <td style=\"padding: 4px 0; color: #111827;\">3.77 / 4.50</td>\n              </tr>\n            </table>\n          </div>\n          \n          <p style=\"color: #9ca3af; font-size: 0.85em; margin-top: 30px; border-top: 1px solid #e5e7eb; padding-top: 10px;\">\n            본 메일은 발송전용 메일이므로 회신되지 않습니다. 문의 사항은 대학원 행정팀으로 연락 바랍니다.\n          </p>\n        </div>\n      ",
+      "timestamp": "2026-06-30T06:02:37.093Z",
+      "sent": true
+    },
+    {
+      "id": "log_1782799342108_f2kkh",
+      "to": "jack9704@korea.ac.kr",
+      "subject": "[대학원 행정팀] 종합시험 면제 신청 접수 완료 안내",
+      "body": "\n      <div style=\"font-family: 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; border: 1px solid #e5e7eb; border-radius: 8px;\">\n        <h2 style=\"color: #A1001D; border-bottom: 2px solid #C92A49; padding-bottom: 10px;\">대학원 종합시험 면제 신청 접수 완료</h2>\n        <p>안녕하세요, <strong>돌고래</strong> 학생님.</p>\n        <p>대학원 행정팀입니다. 귀하께서 제출하신 <strong>종합시험 면제 신청서</strong>가 정상적으로 접수되었습니다.</p>\n        \n        <div style=\"background-color: #f3f4f6; padding: 15px; border-radius: 6px; margin: 20px 0;\">\n          <h3 style=\"margin-top: 0; color: #374151;\">■ 접수 및 신청 정보</h3>\n          <table style=\"width: 100%; border-collapse: collapse;\">\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563; width: 120px;\"><strong>성명</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">돌고래</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>학번</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">0131561321</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>전공</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">경영학전공</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>기 등록횟수</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">2회</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>기 취득학점</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">12학점</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>평균평점</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">3.77 / 4.50</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>접수일시</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">2026. 6. 30. 오후 3:02:22 (KST)</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>심사 상태</strong></td>\n              <td style=\"padding: 6px 0; color: #d97706; font-weight: bold;\">대기 (PENDING)</td>\n            </tr>\n          </table>\n        </div>\n        \n        <p style=\"color: #4b5563; font-size: 0.95em; line-height: 1.6;\">\n              대학원 행정팀에서 학적부 세부 요건 대조 검토 후 최종 승인을 진행할 예정입니다.<br/>\n              승인 처리가 완료되면 기재하신 이메일로 검토 완료 메일이 추가 발송됩니다.\n            </p>\n        <p style=\"color: #9ca3af; font-size: 0.85em; margin-top: 30px; border-top: 1px solid #e5e7eb; padding-top: 10px;\">\n          본 메일은 발송전용 메일이므로 회신되지 않습니다. 문의 사항은 대학원 행정팀으로 연락 바랍니다.\n        </p>\n      </div>\n    ",
+      "timestamp": "2026-06-30T06:02:25.560Z",
+      "sent": true
+    },
+    {
+      "id": "log_1782799160401_eqkuf",
+      "to": "jack9704@korea.ac.kr",
+      "subject": "[대학원 행정팀] 종합시험 면제 신청 접수 완료 안내",
+      "body": "\n      <div style=\"font-family: 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; border: 1px solid #e5e7eb; border-radius: 8px;\">\n        <h2 style=\"color: #A1001D; border-bottom: 2px solid #C92A49; padding-bottom: 10px;\">대학원 종합시험 면제 신청 접수 완료</h2>\n        <p>안녕하세요, <strong>홍길동</strong> 학생님.</p>\n        <p>대학원 행정팀입니다. 귀하께서 제출하신 <strong>종합시험 면제 신청서</strong>가 정상적으로 접수되었습니다.</p>\n        \n        <div style=\"background-color: #f3f4f6; padding: 15px; border-radius: 6px; margin: 20px 0;\">\n          <h3 style=\"margin-top: 0; color: #374151;\">■ 접수 및 신청 정보</h3>\n          <table style=\"width: 100%; border-collapse: collapse;\">\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563; width: 120px;\"><strong>성명</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">홍길동</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>학번</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">2026461002</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>전공</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">경영학전공</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>기 등록횟수</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">2회</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>기 취득학점</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">14학점</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>평균평점</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">4.5 / 4.50</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>접수일시</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">2026. 6. 30. 오후 2:59:20 (KST)</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>심사 상태</strong></td>\n              <td style=\"padding: 6px 0; color: #16a34a; font-weight: bold;\">승인 완료 (APPROVED)</td>\n            </tr>\n          </table>\n        </div>\n        \n        <div style=\"background-color: #f0fdf4; border: 1px solid #bbf7d0; padding: 15px; border-radius: 6px; margin: 20px 0;\">\n              <p style=\"margin: 0; color: #16a34a; font-weight: bold; font-size: 1em;\">귀하의 신청이 화이트리스트 자동 승인 처리되었습니다.</p>\n              <p style=\"margin: 8px 0 0 0; color: #4b5563; font-size: 0.9em;\">별도의 검토 없이 최종 승인되었으니, 학업에 차질 없으시기 바랍니다.</p>\n            </div>\n        <p style=\"color: #9ca3af; font-size: 0.85em; margin-top: 30px; border-top: 1px solid #e5e7eb; padding-top: 10px;\">\n          본 메일은 발송전용 메일이므로 회신되지 않습니다. 문의 사항은 대학원 행정팀으로 연락 바랍니다.\n        </p>\n      </div>\n    ",
+      "timestamp": "2026-06-30T05:59:24.798Z",
+      "sent": true
+    },
+    {
+      "id": "log_1782798669431_y6s6c",
+      "to": "jack9704@korea.ac.kr",
+      "subject": "[대학원 행정팀] 종합시험 면제 신청 접수 완료 안내",
+      "body": "\n      <div style=\"font-family: 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; border: 1px solid #e5e7eb; border-radius: 8px;\">\n        <h2 style=\"color: #A1001D; border-bottom: 2px solid #C92A49; padding-bottom: 10px;\">대학원 종합시험 면제 신청 접수 완료</h2>\n        <p>안녕하세요, <strong>홍길동</strong> 학생님.</p>\n        <p>대학원 행정팀입니다. 귀하께서 제출하신 <strong>종합시험 면제 신청서</strong>가 정상적으로 접수되었습니다.</p>\n        \n        <div style=\"background-color: #f3f4f6; padding: 15px; border-radius: 6px; margin: 20px 0;\">\n          <h3 style=\"margin-top: 0; color: #374151;\">■ 접수 및 신청 정보</h3>\n          <table style=\"width: 100%; border-collapse: collapse;\">\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563; width: 120px;\"><strong>성명</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">홍길동</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>학번</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">2026461001</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>전공</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">경영학전공</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>기 등록횟수</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">3회</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>기 취득학점</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">15학점</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>평균평점</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">4 / 4.50</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>접수일시</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">2026. 6. 30. 오후 2:51:09 (KST)</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>심사 상태</strong></td>\n              <td style=\"padding: 6px 0; color: #16a34a; font-weight: bold;\">승인 완료 (APPROVED)</td>\n            </tr>\n          </table>\n        </div>\n        \n        <div style=\"background-color: #f0fdf4; border: 1px solid #bbf7d0; padding: 15px; border-radius: 6px; margin: 20px 0;\">\n              <p style=\"margin: 0; color: #16a34a; font-weight: bold; font-size: 1em;\">귀하의 신청이 화이트리스트 자동 승인 처리되었습니다.</p>\n              <p style=\"margin: 8px 0 0 0; color: #4b5563; font-size: 0.9em;\">별도의 검토 없이 최종 승인되었으니, 학업에 차질 없으시기 바랍니다.</p>\n            </div>\n        <p style=\"color: #9ca3af; font-size: 0.85em; margin-top: 30px; border-top: 1px solid #e5e7eb; padding-top: 10px;\">\n          본 메일은 발송전용 메일이므로 회신되지 않습니다. 문의 사항은 대학원 행정팀으로 연락 바랍니다.\n        </p>\n      </div>\n    ",
+      "timestamp": "2026-06-30T05:51:13.286Z",
+      "sent": true
+    },
+    {
+      "id": "log_1782798451678_l3xi6",
+      "to": "jack9704@korea.ac.kr",
+      "subject": "[대학원 행정팀] 종합시험 면제 신청 결과 안내 (승인 (APPROVED))",
+      "body": "\n        <div style=\"font-family: 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; border: 1px solid #e5e7eb; border-radius: 8px;\">\n          <h2 style=\"color: #A1001D; border-bottom: 2px solid #C92A49; padding-bottom: 10px;\">대학원 종합시험 면제 신청 심사 완료</h2>\n          <p>안녕하세요, <strong>홍길동</strong> 학생님.</p>\n          <p>대학원 행정팀입니다. 귀하께서 제출하신 종합시험 면제 신청서의 최종 심사 결과를 알려드립니다.</p>\n          \n          <div style=\"background-color: #f8fafc; border-left: 4px solid #16a34a; padding: 15px; border-radius: 4px; margin: 20px 0;\">\n            <p style=\"margin: 0; font-size: 1.1em; color: #16a34a; font-weight: bold;\">심사 결과: 승인 (APPROVED)</p>\n            <p style=\"margin: 10px 0 0 0; color: #4b5563; font-size: 0.95em; line-height: 1.5;\">\n              축하합니다! 귀하의 대학원 종합시험 면제 신청서가 검토 결과 <strong>승인</strong>되었습니다.\n            </p>\n          </div>\n          \n          <div style=\"background-color: #f3f4f6; padding: 15px; border-radius: 6px; margin: 20px 0;\">\n            <h3 style=\"margin-top: 0; color: #374151;\">■ 신청서 요약 정보</h3>\n            <table style=\"width: 100%; border-collapse: collapse;\">\n              <tr>\n                <td style=\"padding: 4px 0; color: #4b5563; width: 120px;\"><strong>성명</strong></td>\n                <td style=\"padding: 4px 0; color: #111827;\">홍길동</td>\n              </tr>\n              <tr>\n                <td style=\"padding: 4px 0; color: #4b5563;\"><strong>학번</strong></td>\n                <td style=\"padding: 4px 0; color: #111827;\">2026461012</td>\n              </tr>\n              <tr>\n                <td style=\"padding: 4px 0; color: #4b5563;\"><strong>전공</strong></td>\n                <td style=\"padding: 4px 0; color: #111827;\">경영학전공</td>\n              </tr>\n              <tr>\n                <td style=\"padding: 4px 0; color: #4b5563;\"><strong>기 등록횟수</strong></td>\n                <td style=\"padding: 4px 0; color: #111827;\">12회</td>\n              </tr>\n              <tr>\n                <td style=\"padding: 4px 0; color: #4b5563;\"><strong>기 취득학점</strong></td>\n                <td style=\"padding: 4px 0; color: #111827;\">12학점</td>\n              </tr>\n              <tr>\n                <td style=\"padding: 4px 0; color: #4b5563;\"><strong>평균평점</strong></td>\n                <td style=\"padding: 4px 0; color: #111827;\">3.8 / 4.50</td>\n              </tr>\n            </table>\n          </div>\n          \n          <p style=\"color: #9ca3af; font-size: 0.85em; margin-top: 30px; border-top: 1px solid #e5e7eb; padding-top: 10px;\">\n            본 메일은 발송전용 메일이므로 회신되지 않습니다. 문의 사항은 대학원 행정팀으로 연락 바랍니다.\n          </p>\n        </div>\n      ",
+      "timestamp": "2026-06-30T05:47:31.678Z",
+      "sent": true
+    },
+    {
+      "id": "log_1782798449638_y3y9u",
+      "to": "jack9704@korea.ac.kr",
+      "subject": "[대학원 행정팀] 종합시험 면제 신청 결과 안내 (반려 (REJECTED))",
+      "body": "\n        <div style=\"font-family: 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; border: 1px solid #e5e7eb; border-radius: 8px;\">\n          <h2 style=\"color: #A1001D; border-bottom: 2px solid #C92A49; padding-bottom: 10px;\">대학원 종합시험 면제 신청 심사 완료</h2>\n          <p>안녕하세요, <strong>홍길동</strong> 학생님.</p>\n          <p>대학원 행정팀입니다. 귀하께서 제출하신 종합시험 면제 신청서의 최종 심사 결과를 알려드립니다.</p>\n          \n          <div style=\"background-color: #f8fafc; border-left: 4px solid #dc2626; padding: 15px; border-radius: 4px; margin: 20px 0;\">\n            <p style=\"margin: 0; font-size: 1.1em; color: #dc2626; font-weight: bold;\">심사 결과: 반려 (REJECTED)</p>\n            <p style=\"margin: 10px 0 0 0; color: #4b5563; font-size: 0.95em; line-height: 1.5;\">\n              안타깝게도 귀하의 대학원 종합시험 면제 신청서가 학적 검토 요건 미달로 <strong>반려</strong>되었습니다. 상세 사유는 대학원 행정팀에 문의하시기 바랍니다.\n            </p>\n          </div>\n          \n          <div style=\"background-color: #f3f4f6; padding: 15px; border-radius: 6px; margin: 20px 0;\">\n            <h3 style=\"margin-top: 0; color: #374151;\">■ 신청서 요약 정보</h3>\n            <table style=\"width: 100%; border-collapse: collapse;\">\n              <tr>\n                <td style=\"padding: 4px 0; color: #4b5563; width: 120px;\"><strong>성명</strong></td>\n                <td style=\"padding: 4px 0; color: #111827;\">홍길동</td>\n              </tr>\n              <tr>\n                <td style=\"padding: 4px 0; color: #4b5563;\"><strong>학번</strong></td>\n                <td style=\"padding: 4px 0; color: #111827;\">2026461012</td>\n              </tr>\n              <tr>\n                <td style=\"padding: 4px 0; color: #4b5563;\"><strong>전공</strong></td>\n                <td style=\"padding: 4px 0; color: #111827;\">경영학전공</td>\n              </tr>\n              <tr>\n                <td style=\"padding: 4px 0; color: #4b5563;\"><strong>기 등록횟수</strong></td>\n                <td style=\"padding: 4px 0; color: #111827;\">12회</td>\n              </tr>\n              <tr>\n                <td style=\"padding: 4px 0; color: #4b5563;\"><strong>기 취득학점</strong></td>\n                <td style=\"padding: 4px 0; color: #111827;\">12학점</td>\n              </tr>\n              <tr>\n                <td style=\"padding: 4px 0; color: #4b5563;\"><strong>평균평점</strong></td>\n                <td style=\"padding: 4px 0; color: #111827;\">3.8 / 4.50</td>\n              </tr>\n            </table>\n          </div>\n          \n          <p style=\"color: #9ca3af; font-size: 0.85em; margin-top: 30px; border-top: 1px solid #e5e7eb; padding-top: 10px;\">\n            본 메일은 발송전용 메일이므로 회신되지 않습니다. 문의 사항은 대학원 행정팀으로 연락 바랍니다.\n          </p>\n        </div>\n      ",
+      "timestamp": "2026-06-30T05:47:29.638Z",
+      "sent": true
+    },
+    {
+      "id": "log_1782798394022_igh0o",
+      "to": "jack9704@korea.ac.kr",
+      "subject": "[대학원 행정팀] 종합시험 면제 신청 접수 완료 안내",
+      "body": "\n      <div style=\"font-family: 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; border: 1px solid #e5e7eb; border-radius: 8px;\">\n        <h2 style=\"color: #A1001D; border-bottom: 2px solid #C92A49; padding-bottom: 10px;\">대학원 종합시험 면제 신청 접수 완료</h2>\n        <p>안녕하세요, <strong>홍길동</strong> 학생님.</p>\n        <p>대학원 행정팀입니다. 귀하께서 제출하신 <strong>종합시험 면제 신청서</strong>가 정상적으로 접수되었습니다.</p>\n        \n        <div style=\"background-color: #f3f4f6; padding: 15px; border-radius: 6px; margin: 20px 0;\">\n          <h3 style=\"margin-top: 0; color: #374151;\">■ 접수 및 신청 정보</h3>\n          <table style=\"width: 100%; border-collapse: collapse;\">\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563; width: 120px;\"><strong>성명</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">홍길동</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>학번</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">2026461012</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>전공</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">경영학전공</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>기 등록횟수</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">12회</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>기 취득학점</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">12학점</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>평균평점</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">3.8 / 4.50</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>접수일시</strong></td>\n              <td style=\"padding: 6px 0; color: #111827;\">2026. 6. 30. 오후 2:46:33 (KST)</td>\n            </tr>\n            <tr>\n              <td style=\"padding: 6px 0; color: #4b5563;\"><strong>심사 상태</strong></td>\n              <td style=\"padding: 6px 0; color: #16a34a; font-weight: bold;\">승인 완료 (APPROVED)</td>\n            </tr>\n          </table>\n        </div>\n        \n        <div style=\"background-color: #f0fdf4; border: 1px solid #bbf7d0; padding: 15px; border-radius: 6px; margin: 20px 0;\">\n              <p style=\"margin: 0; color: #16a34a; font-weight: bold; font-size: 1em;\">귀하의 신청이 화이트리스트 자동 승인 처리되었습니다.</p>\n              <p style=\"margin: 8px 0 0 0; color: #4b5563; font-size: 0.9em;\">별도의 검토 없이 최종 승인되었으니, 학업에 차질 없으시기 바랍니다.</p>\n            </div>\n        <p style=\"color: #9ca3af; font-size: 0.85em; margin-top: 30px; border-top: 1px solid #e5e7eb; padding-top: 10px;\">\n          본 메일은 발송전용 메일이므로 회신되지 않습니다. 문의 사항은 대학원 행정팀으로 연락 바랍니다.\n        </p>\n      </div>\n    ",
+      "timestamp": "2026-06-30T05:46:34.022Z",
+      "sent": true
+    }
+  ]
+}

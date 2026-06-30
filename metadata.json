@@ -1,0 +1,6 @@
+{
+  "name": "Graduate Exam Waiver System",
+  "description": "대학원 종합시험 면제 신청 및 승인 검토 시스템 MVP",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

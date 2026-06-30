@@ -16,7 +16,19 @@ dotenv.config();
 const app = express();
 const PORT = 3000;
 
-app.use(express.json());
+app.use(express.raw({ type: '*/*' }));
+app.use((req: express.Request, _res: express.Response, next: express.NextFunction) => {
+  if (Buffer.isBuffer(req.body)) {
+    try {
+      req.body = JSON.parse(req.body.toString());
+    } catch (e) {
+      console.error('Body parse error:', e, 'raw:', req.body?.toString());
+      _res.status(400).json({ error: '잘못된 요청 형식입니다.' });
+      return;
+    }
+  }
+  next();
+});
 
 // Initialize Database Directory & File
 const DATA_DIR = path.join(process.cwd(), 'data');

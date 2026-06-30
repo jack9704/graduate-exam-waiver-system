@@ -10,7 +10,7 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'fs';
 import { createServer as createViteServer } from 'vite';
 import nodemailer from 'nodemailer';
 import dotenv from 'dotenv';
-import { Status, Application, EmailLog } from './src/types';
+import { Status, Application, EmailLog } from './src/types.js';
 
 dotenv.config();
 

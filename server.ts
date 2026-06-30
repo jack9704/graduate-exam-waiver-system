@@ -491,4 +491,10 @@ async function startServer() {
   });
 }
 
-startServer();
+// Vercel serverless export
+export default app;
+
+// Run as standalone when not on Vercel
+if (process.env.VERCEL !== '1') {
+  startServer();
+}
